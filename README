@@ -1,1 +1,7 @@
-Hello World!
+This script executes the sl command until the user stops the execution by pressing Ctrl+z.
+
+Note: Before executing this command, make sure you have sl installed on your system.
+If not, simply install by giving the command: sudo apt-get install sl
+
+Now, run the script and see the awesomeness :)
+
