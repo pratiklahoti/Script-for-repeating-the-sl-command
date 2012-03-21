@@ -1,0 +1,7 @@
+#!/bin/bash
+
+while :
+do
+	sl
+done
+exit(1)
