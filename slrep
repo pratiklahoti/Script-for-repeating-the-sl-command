@@ -4,4 +4,3 @@ while :
 do
 	sl
 done
-exit(1)
